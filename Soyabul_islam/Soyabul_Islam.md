@@ -174,4 +174,28 @@ cv2.destroyAllWindows()
 ```
 
 Here you can see the result.
+
+
 [![Face Detection](https://share.gifyoutube.com/SnBnwKXd5Rg.gif)](https://youtu.be/SnBnwKXd5Rg)
+
+
+## Flask:
+It is micro web framework written in python. To deploy our model to server it is a very helpul framework. 
+After importing  <h3>Flask</h3> , we craete a n instance of this class. We then use the route() decorator to tell Flask what URL should trigger our function.
+Here's a demo code for running a simple URL.
+
+
+```python
+from flask import Flask
+app = Flask(__name__)
+
+@app.route('/')
+def hello_world():
+    return 'Hello, World!'
+    
+```    
+
+You can find Face detection app developemnt with flask's code from the link.
+
+
+[Face Detection Web App](https://github.com/SoyabulIslamLincoln/OpenCV-Module-2/tree/main/Soyabul_islam/web_app_for_face_detection)
