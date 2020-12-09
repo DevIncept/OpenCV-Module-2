@@ -181,7 +181,7 @@ Here you can see the result.
 
 ## Flask:
 It is micro web framework written in python. To deploy our model to server it is a very helpul framework. 
-After importing  <h3>Flask</h3> , we craete a n instance of this class. We then use the route() decorator to tell Flask what URL should trigger our function.
+After importing  <b>Flask</b> , we craete a n instance of this class. We then use the route() decorator to tell Flask what URL should trigger our function.
 Here's a demo code for running a simple URL.
 
 
