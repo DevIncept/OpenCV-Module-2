@@ -199,3 +199,7 @@ You can find Face detection app developemnt with flask's code from the link.
 
 
 [Face Detection Web App](https://github.com/SoyabulIslamLincoln/OpenCV-Module-2/tree/main/Soyabul_islam/web_app_for_face_detection)
+
+
+# Name: Soyabul Islam
+# Email: islam1709028@stud.kuet.ac.bd
